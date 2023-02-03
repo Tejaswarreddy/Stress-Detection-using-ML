@@ -1,4 +1,4 @@
 # talentbattleml
-Basic ML projects using Naive Bayes Classifier.\n
-Practice-->Spam mail detection.\n
+Basic ML projects using Naive Bayes Classifier.
+Practice-->Spam mail detection.
 Main-->Stress Detection
